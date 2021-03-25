@@ -6,3 +6,4 @@ C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModeling
 C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\obj\Debug\netcoreapp3.1\DataModelingLibrary.csproj.CoreCompileInputs.cache
 C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\obj\Debug\netcoreapp3.1\DataModelingLibrary.dll
 C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\obj\Debug\netcoreapp3.1\DataModelingLibrary.pdb
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\obj\Debug\netcoreapp3.1\DataModelingLibrary.csprojAssemblyReference.cache

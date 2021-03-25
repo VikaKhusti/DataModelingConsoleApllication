@@ -14,3 +14,4 @@ C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModeling
 C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.dll
 C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.pdb
 C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.genruntimeconfig.cache
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

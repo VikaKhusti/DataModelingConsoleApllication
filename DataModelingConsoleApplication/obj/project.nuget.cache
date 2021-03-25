@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "956yG0/YdNA6DYyZF/kDD6YCu+WlSC/yTtavpaMrpZTjNJSecsn6Gb00F2mIycd9/UDJ3DQIxnEHMNXxXA6bOw==",
+  "dgSpecHash": "j103vhRswf7dB5oGKUnPiWNo95LvDv9v2faCx4dQA7B9aT83ZtXG8Xd5v0HVfQ/RwPjmztcaqtzFxO5U8B/JLg==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\Libraries\\DataModelingConsoleApplication\\DataModelingConsoleApplication\\DataModelingConsoleApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
