@@ -1,0 +1,8 @@
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\bin\Debug\netcoreapp3.1\DataModelingLibrary.deps.json
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\bin\Debug\netcoreapp3.1\DataModelingLibrary.dll
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\bin\Debug\netcoreapp3.1\DataModelingLibrary.pdb
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\obj\Debug\netcoreapp3.1\DataModelingLibrary.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\obj\Debug\netcoreapp3.1\DataModelingLibrary.AssemblyInfo.cs
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\obj\Debug\netcoreapp3.1\DataModelingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\obj\Debug\netcoreapp3.1\DataModelingLibrary.dll
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingLibrary\obj\Debug\netcoreapp3.1\DataModelingLibrary.pdb

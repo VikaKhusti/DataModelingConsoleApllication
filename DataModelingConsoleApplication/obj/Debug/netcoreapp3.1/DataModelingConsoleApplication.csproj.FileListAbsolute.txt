@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\DataModelingConsoleApplication.exe
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\DataModelingConsoleApplication.deps.json
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\DataModelingConsoleApplication.runtimeconfig.json
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\DataModelingConsoleApplication.runtimeconfig.dev.json
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\DataModelingConsoleApplication.dll
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\DataModelingConsoleApplication.pdb
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\DataModelingLibrary.dll
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\DataModelingLibrary.pdb
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.AssemblyInfo.cs
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.csproj.CopyComplete
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.dll
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.pdb
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.genruntimeconfig.cache
