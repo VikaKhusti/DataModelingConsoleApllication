@@ -1,19 +1,24 @@
-﻿using System;
+﻿using CsvHelper;
+using System;
 using System.Collections.Generic;
 
 namespace DataModelingConsoleApplication
 {
     class Program
     {
+        
         static void Main(string[] args)
         {
-            
+            var dm = new DataModelingLibrary.DataService();
 
             //csse_covid_19_data/csse_covid_19_daily_reports
             string owner = "CSSEGISandData";
             string repo = "COVID-19";
             string path = "csse_covid_19_data/";
-            DisplayContent(owner, repo, path);
+            //DisplayContent(owner, repo, path);
+            var url = "https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_daily_reports/03-28-2021.csv";
+            var csv = dm.GetCSVData(url);
+            Console.WriteLine(csv);
         }
 
         static void DisplayContent(string owner, string repo, string path)

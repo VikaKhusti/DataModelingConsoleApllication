@@ -15,3 +15,7 @@ C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModeling
 C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.pdb
 C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\obj\Debug\netcoreapp3.1\DataModelingConsoleApplication.genruntimeconfig.cache
 C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\CsvHelper.dll
+C:\Users\user\source\repos\Libraries\DataModelingConsoleApplication\DataModelingConsoleApplication\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
